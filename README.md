@@ -6,7 +6,7 @@ El presente Política de Privacidad establece los términos en que NotasApp usa 
 </div>
 
 
-1. ## Información que es recogida
+## 1. Información que es recogida
 <div style="text-align: justify">
 Nuestro sitio web podrá recoger información personal por ejemplo: Nombre, información de contacto como su dirección de correo electrónica e información demográfica. Así mismo cuando sea necesario podrá ser requerida información específica para procesar algún pedido o realizar una entrega o facturación.
 </div>
