@@ -1,4 +1,4 @@
-## Bienvenidos a la politica de privacidad de NotasApp
+## Politica de privacidad de NotasApp
 
 
 
