@@ -1,4 +1,4 @@
-## Politica de privacidad de NotasApp
+# Politica de privacidad de NotasApp
 
 
 <div style="text-align: justify">
